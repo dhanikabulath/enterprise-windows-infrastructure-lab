@@ -201,3 +201,4 @@ This project provided hands-on experience implementing enterprise file services 
 ## Project 06 – Windows 11 Enterprise Client
 
 The next project focuses on deploying a Windows 11 Enterprise client, joining it to the Active Directory domain, validating DNS and DHCP, applying Group Policies, testing Folder Redirection, and verifying enterprise file share access.
+<!-- File Services project documentation -->
