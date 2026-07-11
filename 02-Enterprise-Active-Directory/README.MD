@@ -243,3 +243,4 @@ This project provided hands-on experience deploying and administering an Enterpr
 ## Project 03 – DNS & DHCP
 
 The next phase of the lab will focus on implementing enterprise DNS and DHCP services, including Forward and Reverse Lookup Zones, DHCP Scopes, Reservations, Leases, and network troubleshooting.
+<!-- Active Directory project documentation -->
